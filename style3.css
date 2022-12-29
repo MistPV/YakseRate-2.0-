@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,400&display=swap');
+
+body {
+    font-family: 'Montserrat';
+    background: #879ABF;
+}
+
+.rate-info{
+    background-color: #2A488D;
+    width: 106.5rem;
+    height: 45rem;
+    border-radius: 0.5rem;
+    margin-top: 1rem;
+}
+.nav-low{
+    background-color: #2A488D;
+    width: 106.5rem;
+    height: 40rem;
+    border-radius: 0.5rem;
+    margin-top: 1rem;
+}
+::placeholder {
+  color: #879ABF;
+  font-size: 1.5em;
+}
